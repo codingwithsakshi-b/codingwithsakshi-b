@@ -58,7 +58,7 @@ I'm a **BTech student** in **Computer Science** with a specialization in **AI/ML
 ### 📍 Connect with Me
 - 💻 [GitHub](https://github.com/codingwithsakshi-b)
 -  💌 [Gmail](mailto:studystudy7867@gmail.com)
--  🐦 [Twitter](https://twitter.com/codingwithsakshi-b)
+-  🐦 [Twitter](https://x.com/codingwithsaksh)
 
 *Feel free to reach out to me here, or through other channels!*
 
