@@ -38,8 +38,9 @@ I'm a **BTech student** in **Computer Science** with a specialization in **AI/ML
 
 ---
 
-### 🚧 Projects in Progress:
-- **Python Learning Journey**: [Link to Repo](https://github.com/codingwithsakshi-b/python_learning_journey)  
+### 🚧 REPOSITORIES:
+- **Python Learning Journey**: [Link to Repo](https://github.com/codingwithsakshi-b/python_learning_journey)  (Done✔️ )
+- **DSA_Learning_With_CPP**: [Link to Repo](https://github.com/codingwithsakshi-b/DSA_Learning_With_CPP)(Work in Progress⚒️ )
 - **AI/ML Projects**: Ongoing research and experiments with various datasets and algorithms.
 
 ---
