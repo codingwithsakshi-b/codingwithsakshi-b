@@ -7,17 +7,19 @@ I'm a **BTech student** in **Computer Science** with a specialization in **AI/ML
 ---
 
 ### 🚀 What I'm currently working on
-- Exploring the world of **Python** and **Machine Learning**.
+- DSA in C++ and learning WEB DEVELOPMENT💫.
+- Exploring the world of **Python** and **Machine Learning**.(✅Intermediate level python coder)
 - Building projects that involve **AI**, **Data Science**, and **Automation**.
 
 ### 🌱 My Learning Journey
-- Currently diving deep into **Object-Oriented Programming** and **File I/O** in Python.
+- currently DONE ✅ the basics of c++.... and diving to **DSA**
+-  **Object-Oriented Programming** and **File I/O** in Python.
 - Learning the fundamentals of **AI** and **ML** through practical implementations.
 
 ---
 
 ### 🧑‍💻 Tech Stack
-- **Languages**: Python, JavaScript
+- **Languages**: Python,C++, JavaScript
 - **Frameworks**: Flask, Django
 - **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn
 - **Databases**: MySQL, MongoDB
